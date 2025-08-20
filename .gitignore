@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+temp_pdf_images/
+upscaled_pdf_images/
+
+# Output files
+*_output.pdf
+
+# RealESRGAN sample files
+realesrgan-ncnn-vulkan-20220424-ubuntu/input.jpg
+realesrgan-ncnn-vulkan-20220424-ubuntu/input2.jpg
+realesrgan-ncnn-vulkan-20220424-ubuntu/onepiece_demo.mp4
+realesrgan-ncnn-vulkan-20220424-ubuntu/output/
